@@ -22,7 +22,7 @@ public class TestClass {
 		TestClass t=new TestClass();
 		int res=t.mars(s1);
 		
-		System.out.println(String.valueOf(res));
+		System.out.println((res));
 	}
 
 }
